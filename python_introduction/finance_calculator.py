@@ -1,4 +1,4 @@
-monthly_income = float(input("Enter your monthly income: "))
+monthly_income = float(input("Enter yourmonthly income: "))
 total_monthly_expenses = float(input("Enter your total monthlyexpenses: "))
 monthly_saving = monthly_income-total_monthly_expenses
 rate = 0.05
